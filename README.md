@@ -9,3 +9,5 @@
 Το τελικό έργο βρίσκεται στον σύνδεσμο
 
 https://scratch.mit.edu/projects/536503109/
+
+Ενώ είναι διαθέσιμο και ως αρχείο εδώ https://github.com/ezeakis/ellak3_covid_scratch/blob/main/COVID%20Scratch.sb3
